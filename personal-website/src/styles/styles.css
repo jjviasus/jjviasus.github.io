@@ -1,0 +1,23 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@900&display=swap');
+
+:root {
+  --background-color: #CDB098;
+  --text-color: #52464a;
+}
+
+/* Global Styles */
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  font-weight: 100; /* Regular text weight */
+  color: var(--text-color);
+  background-color: var(--background-color);
+}
+
+/* Biggest Headers */
+h1 {
+  font-weight: 900;
+  font-size: 3rem; /* Adjust the font size as needed */
+}

@@ -1,10 +1,9 @@
 import React from 'react';
+import './styles/styles.css';
 
 function App() {
   return (
-    <div>
-      Hello World!
-    </div>
+      <h1>This website is under construction 👨‍💻</h1>
   );
 }
 
